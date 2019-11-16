@@ -90,7 +90,8 @@ public class Player : MonoBehaviour
 
                 }
             }
-            if (seconds == 9)
+
+            if(seconds == 8)
             {
                 if(bomb == 1)
                 {
@@ -103,6 +104,7 @@ public class Player : MonoBehaviour
                 }
 
             }
+
         }
         
 
