@@ -140,13 +140,13 @@ public class Player : MonoBehaviour
 
     void Breathe()
     {
-        audioSources[2].Play();
+        audioSources[3].Play();
 
     }
 
-    void Cheer()
+    void Run()
     {
-        audioSources[3].Play();
+        audioSources[2].Play();
 
     }
 }
